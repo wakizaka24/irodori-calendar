@@ -343,8 +343,8 @@
   },
   {
     "screen": "L01",
-    "ios": "reference-ios-catalog63/93FEBB65-CF72-49F9-808F-B3402CC4A88F.png",
-    "android": "iteration-133/android/L01.png",
+    "ios": "reference-ios-application405/DDB8D322-B07F-41AC-AAAF-0F3AA4AFB68F.png",
+    "android": "iteration-412/android/L01.png",
     "status": "in_progress"
   },
   {
@@ -355,8 +355,8 @@
   },
   {
     "screen": "L03",
-    "ios": "reference-ios-layout/734B3630-D23E-43AE-9F06-0D9DD6C88AA1.png",
-    "android": "iteration-12/android/L03.png",
+    "ios": "reference-ios-application405/E77BB8A9-255F-4EF4-8732-D86660723357.png",
+    "android": "iteration-412/android/L03.png",
     "status": "in_progress"
   },
   {
