@@ -1,5 +1,11 @@
 [
   {
+    "screen": "I05-off",
+    "ios": "reference-ios-removal158/841124A7-8745-43F1-96EF-214B28A52D7D.png",
+    "android": "iteration-161/android/I05-off.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "L07-blur",
     "ios": "reference-ios-surfaces139/555C2DB1-A6DE-4336-8797-CF2C9A682616.png",
     "android": "iteration-141/android/L07-blur.png",
