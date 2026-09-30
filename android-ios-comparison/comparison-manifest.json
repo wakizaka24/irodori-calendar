@@ -1,20 +1,32 @@
 [
   {
+    "screen": "C04-inline-actions",
+    "ios": "reference-ios-inline323/A61DA214-45C0-445C-BF09-D85DA3CD3FB5.png",
+    "android": "iteration-327/android/C04-inline-actions.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "C04-inline-copy",
+    "ios": "reference-ios-inline323/6E879820-5E70-48C5-8BF5-A257D719CEA1.png",
+    "android": "iteration-327/android/C04-inline-copy.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "C04-inline",
     "ios": "reference-ios-inline313/E2FCDA77-1652-445A-BD5F-5669A09DE51C.png",
-    "android": "iteration-319/android/C04-inline.png",
+    "android": "iteration-327/android/C04-inline.png",
     "status": "in_progress"
   },
   {
     "screen": "C04-duration",
     "ios": "reference-ios-inline313/DEEBE68D-8786-4EBB-B41D-FDEE34B25FCA.png",
-    "android": "iteration-319/android/C04-duration.png",
+    "android": "iteration-327/android/C04-duration.png",
     "status": "in_progress"
   },
   {
     "screen": "C04-duration-hours",
     "ios": "reference-ios-inline313/47F5D4B2-217C-430D-A940-6A6A8D379D44.png",
-    "android": "iteration-319/android/C04-duration-hours.png",
+    "android": "iteration-327/android/C04-duration-hours.png",
     "status": "in_progress"
   },
   {
