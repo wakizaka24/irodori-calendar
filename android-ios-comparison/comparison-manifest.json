@@ -1,20 +1,38 @@
 [
   {
+    "screen": "E01-hidden-save",
+    "ios": "reference-ios-editor299/D8B929AA-003D-4046-8114-FC809CE3FD06.png",
+    "android": "iteration-300/android/E01-hidden-save.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "E01-time-picker",
+    "ios": "reference-ios-editor304/0AE11ED5-B859-4845-BE85-5A43DB41F653.png",
+    "android": "iteration-306/android/E01-time-picker.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "E01-date-picker",
+    "ios": "reference-ios-editor304/E38AE095-861E-49D9-9E33-A384CA6C1FA3.png",
+    "android": "iteration-306/android/E01-date-picker.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "E01-filled",
     "ios": "reference-ios-editor290/8CF48D85-D05D-4869-B5D3-1098C7967415.png",
-    "android": "iteration-293/android/E01-filled.png",
+    "android": "iteration-306/android/E01-filled.png",
     "status": "in_progress"
   },
   {
     "screen": "E01-repeat-picker",
     "ios": "reference-ios-editor290/05D942B4-1A0B-458A-B77C-CF59B7E725CE.png",
-    "android": "iteration-293/android/E01-repeat-picker.png",
+    "android": "iteration-306/android/E01-repeat-picker.png",
     "status": "in_progress"
   },
   {
     "screen": "E01-repeat-end",
     "ios": "reference-ios-editor290/6843C00E-802E-4C6C-BB24-A49D723DF8DD.png",
-    "android": "iteration-293/android/E01-repeat-end.png",
+    "android": "iteration-306/android/E01-repeat-end.png",
     "status": "in_progress"
   },
   {
@@ -200,7 +218,7 @@
   {
     "screen": "E01",
     "ios": "reference-ios-editor290/26C07016-468A-43A4-AC3F-FE43E38E83B9.png",
-    "android": "iteration-293/android/E01.png",
+    "android": "iteration-306/android/E01.png",
     "status": "in_progress"
   },
   {
