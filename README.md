@@ -11,4 +11,4 @@ mainブランチのルートから公開します。ビルドツールは不要�
 
 2026-09-29、「彩りカレンダー」への名称変更に合わせ、リポジトリ・ローカルフォルダを `irodori-calendar` に変更。
 
-- iOS / Android 比較資料: [android-ios-comparison/](android-ios-comparison/)（2026-09-30、21画面。比較途中の記録）
+- iOS / Android 比較資料: [android-ios-comparison/](android-ios-comparison/)（2026-09-30、参照画像を再監査中。未取得・未一致を明示）
