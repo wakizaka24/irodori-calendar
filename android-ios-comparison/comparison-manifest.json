@@ -2,7 +2,7 @@
   {
     "screen": "C04-menu",
     "ios": "reference-ios-event70/7744FB51-8D34-4FBC-8FF2-E82A3FC3935C.png",
-    "android": "iteration-91/android/C04-menu.png",
+    "android": "iteration-121/android/C04-menu.png",
     "status": "in_progress"
   },
   {
@@ -74,7 +74,7 @@
   {
     "screen": "C04",
     "ios": "reference-ios-event70/720AE4D4-8DAB-44B7-9975-2A1B754B25CF.png",
-    "android": "iteration-91/android/C04.png",
+    "android": "iteration-121/android/C04.png",
     "status": "in_progress"
   },
   {
