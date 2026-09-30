@@ -86,7 +86,7 @@
   {
     "screen": "C03",
     "ios": "reference-ios-menu/AEAD1331-6A1B-4B11-BE75-A2A32DCE4736.png",
-    "android": "iteration-170/android/C03.png",
+    "android": "iteration-177/android/C03.png",
     "status": "in_progress"
   },
   {
@@ -110,13 +110,13 @@
   {
     "screen": "S01",
     "ios": "reference-ios-validated-base/28C18C3E-C1D9-4E80-BF0F-89C1EBF0808E.png",
-    "android": "iteration-20/android/S01.png",
+    "android": "iteration-177/android/S01.png",
     "status": "in_progress"
   },
   {
     "screen": "S02",
     "ios": "reference-ios-validated-root/8248BD4A-939D-41C1-8445-692C9D6D066E.png",
-    "android": "iteration-20/android/S02.png",
+    "android": "iteration-177/android/S02.png",
     "status": "in_progress"
   },
   {
