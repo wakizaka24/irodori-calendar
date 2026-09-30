@@ -8,13 +8,13 @@
   {
     "screen": "L04-editor",
     "ios": "reference-ios-gallery-complete/DC2E17E2-7C66-41A7-86CA-0893F56FCCF5.png",
-    "android": "iteration-59/android/L04-editor.png",
+    "android": "iteration-60/android/L04-editor.png",
     "status": "in_progress"
   },
   {
     "screen": "L04-drawer",
     "ios": "reference-ios-gallery-complete/345F08A9-8C00-4161-8A3B-997665505C88.png",
-    "android": "iteration-59/android/L04-drawer.png",
+    "android": "iteration-60/android/L04-drawer.png",
     "status": "in_progress"
   },
   {
@@ -32,7 +32,7 @@
   {
     "screen": "L04-week",
     "ios": "reference-ios-gallery-complete/156CF3BC-0DF3-4A36-BBDE-95F8732A51BA.png",
-    "android": "iteration-59/android/L04-week.png",
+    "android": "iteration-60/android/L04-week.png",
     "status": "in_progress"
   },
   {
@@ -62,7 +62,7 @@
   {
     "screen": "C03",
     "ios": "reference-ios-menu/AEAD1331-6A1B-4B11-BE75-A2A32DCE4736.png",
-    "android": "iteration-58/android/C03.png",
+    "android": "iteration-60/android/C03.png",
     "status": "in_progress"
   },
   {
@@ -152,7 +152,7 @@
   {
     "screen": "L04",
     "ios": "reference-ios-gallery-complete/6A556226-838C-4247-BFC6-6CE07F647084.png",
-    "android": "iteration-59/android/L04.png",
+    "android": "iteration-60/android/L04.png",
     "status": "in_progress"
   },
   {
