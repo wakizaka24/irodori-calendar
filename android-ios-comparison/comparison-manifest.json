@@ -1,8 +1,14 @@
 [
   {
+    "screen": "L03-light",
+    "ios": "reference-ios-light422/EC443475-03AB-4E62-8F54-A0CB0C405992.png",
+    "android": "iteration-427/android/L03-light.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "L03-custom",
     "ios": "reference-ios-custom418/6665D209-D5E8-443E-8C85-306245034F2D.png",
-    "android": "iteration-417/android/L03-custom.png",
+    "android": "iteration-426/android/L03-custom.png",
     "status": "in_progress"
   },
   {
