@@ -2,7 +2,7 @@
   {
     "screen": "I02-add-empty",
     "ios": "reference-ios-image196/14E833C6-ABEC-493B-AE55-2F7B03983C7A.png",
-    "android": "iteration-197/android/I02-add-empty.png",
+    "android": "iteration-204/android/I02-add-empty.png",
     "status": "in_progress"
   },
   {
@@ -253,8 +253,8 @@
   },
   {
     "screen": "I04",
-    "ios": "reference-ios-list/272D0FDE-C62C-4BA6-B449-F864126E1B69.png",
-    "android": "iteration-12/android/I04.png",
+    "ios": "reference-ios-transition200/A3B13521-E420-49EA-93FD-F59B4BA7FFFF.png",
+    "android": "iteration-204/android/I04.png",
     "status": "in_progress"
   }
 ]
