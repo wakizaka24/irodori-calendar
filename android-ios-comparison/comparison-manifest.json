@@ -1,5 +1,17 @@
 [
   {
+    "screen": "L03-actions",
+    "ios": "reference-ios-actions449/71AB6DAA-7549-4CFA-86EB-9300CACEF386.png",
+    "android": "iteration-454/android/L03-actions.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "L03-delete-confirm",
+    "ios": "reference-ios-delete453/4423F300-19ED-4A7F-8D8C-DDCCD24A17C3.png",
+    "android": "iteration-454/android/L03-delete-confirm.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "L03-notice",
     "ios": "reference-ios-custom416/49F80A20-4A3D-4621-B82D-0CB5676D0A61.png",
     "android": "iteration-437/android/L03-notice.png",
