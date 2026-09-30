@@ -1,5 +1,11 @@
 [
   {
+    "screen": "L03-notice",
+    "ios": "reference-ios-custom416/49F80A20-4A3D-4621-B82D-0CB5676D0A61.png",
+    "android": "iteration-437/android/L03-notice.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "L03-light",
     "ios": "reference-ios-light422/EC443475-03AB-4E62-8F54-A0CB0C405992.png",
     "android": "iteration-427/android/L03-light.png",
@@ -368,7 +374,7 @@
   {
     "screen": "L03",
     "ios": "reference-ios-application405/E77BB8A9-255F-4EF4-8732-D86660723357.png",
-    "android": "iteration-412/android/L03.png",
+    "android": "iteration-437/android/L03.png",
     "status": "in_progress"
   },
   {
