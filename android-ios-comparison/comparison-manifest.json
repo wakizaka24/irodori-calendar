@@ -1,5 +1,11 @@
 [
   {
+    "screen": "L03-custom",
+    "ios": "reference-ios-custom418/6665D209-D5E8-443E-8C85-306245034F2D.png",
+    "android": "iteration-417/android/L03-custom.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "C04-copy-hidden-confirm",
     "ios": "reference-ios-hidden-copy340/8CEF4275-C049-4F5C-A5F3-234B62B39DFE.png",
     "android": "iteration-344/android/C04-copy-hidden-confirm.png",
