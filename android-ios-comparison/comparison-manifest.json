@@ -1,32 +1,44 @@
 [
   {
+    "screen": "C04-copy-hidden-confirm",
+    "ios": "reference-ios-hidden-copy340/8CEF4275-C049-4F5C-A5F3-234B62B39DFE.png",
+    "android": "iteration-344/android/C04-copy-hidden-confirm.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "C04-copy-hidden-saved",
+    "ios": "reference-ios-hidden-copy340/28489823-89DF-4C68-95D9-9970904D5423.png",
+    "android": "iteration-344/android/C04-copy-hidden-saved.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "C04-inline-actions",
     "ios": "reference-ios-inline323/A61DA214-45C0-445C-BF09-D85DA3CD3FB5.png",
-    "android": "iteration-327/android/C04-inline-actions.png",
+    "android": "iteration-343/android/C04-inline-actions.png",
     "status": "in_progress"
   },
   {
     "screen": "C04-inline-copy",
     "ios": "reference-ios-inline323/6E879820-5E70-48C5-8BF5-A257D719CEA1.png",
-    "android": "iteration-327/android/C04-inline-copy.png",
+    "android": "iteration-343/android/C04-inline-copy.png",
     "status": "in_progress"
   },
   {
     "screen": "C04-inline",
     "ios": "reference-ios-inline313/E2FCDA77-1652-445A-BD5F-5669A09DE51C.png",
-    "android": "iteration-327/android/C04-inline.png",
+    "android": "iteration-343/android/C04-inline.png",
     "status": "in_progress"
   },
   {
     "screen": "C04-duration",
     "ios": "reference-ios-inline313/DEEBE68D-8786-4EBB-B41D-FDEE34B25FCA.png",
-    "android": "iteration-327/android/C04-duration.png",
+    "android": "iteration-343/android/C04-duration.png",
     "status": "in_progress"
   },
   {
     "screen": "C04-duration-hours",
     "ios": "reference-ios-inline313/47F5D4B2-217C-430D-A940-6A6A8D379D44.png",
-    "android": "iteration-327/android/C04-duration-hours.png",
+    "android": "iteration-343/android/C04-duration-hours.png",
     "status": "in_progress"
   },
   {
