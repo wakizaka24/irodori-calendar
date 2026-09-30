@@ -1,5 +1,23 @@
 [
   {
+    "screen": "S07-display-menu",
+    "ios": "reference-ios-source236/86CC1E9E-8221-457F-82B7-C978724C44CA.png",
+    "android": "iteration-245/android/S07-display-menu.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "S06-destination-menu",
+    "ios": "reference-ios-source236/CF9DB3A0-F328-4459-93C0-71D516C59042.png",
+    "android": "iteration-245/android/S06-destination-menu.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "L06-appearance-menu",
+    "ios": "reference-ios-appearance239/609F30E1-A1E6-4B8D-87F1-A7CDD2AE1726.png",
+    "android": "iteration-244/android/L06-appearance-menu.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "L06-grid",
     "ios": "reference-ios-color227/6D367FEC-1DDB-46F2-9721-68F7CB0DA21D.png",
     "android": "iteration-225/android/L06-grid.png",
@@ -247,8 +265,8 @@
   },
   {
     "screen": "L06",
-    "ios": "reference-ios-color-picker/E1C9AAF8-4C40-443D-BDA3-351968089142.png",
-    "android": "iteration-58/android/L06.png",
+    "ios": "reference-ios-appearance239/3834FE01-496A-43ED-B5D4-4BACDC723998.png",
+    "android": "iteration-244/android/L06.png",
     "status": "in_progress"
   },
   {
@@ -278,7 +296,7 @@
   {
     "screen": "I04",
     "ios": "reference-ios-transition200/A3B13521-E420-49EA-93FD-F59B4BA7FFFF.png",
-    "android": "iteration-214/android/I04.png",
+    "android": "iteration-230/android/I04.png",
     "status": "in_progress"
   }
 ]
