@@ -109,26 +109,26 @@
   },
   {
     "screen": "S05",
-    "ios": "reference-ios-validated-settings/6D4022FE-2148-4CD7-A949-D66A906A8E15.png",
+    "ios": "reference-ios-settings109/BA17F2B2-D000-41E3-9476-E8DCB31902A2.png",
     "android": "iteration-20/android/S05.png",
     "status": "in_progress"
   },
   {
     "screen": "S06",
-    "ios": "reference-ios-validated-settings/0BD6867A-0492-488D-B559-B6024141E5F3.png",
+    "ios": "reference-ios-settings109/A33ABC25-36C5-48A3-8D88-447A65DCDFFD.png",
     "android": "iteration-20/android/S06.png",
     "status": "in_progress"
   },
   {
     "screen": "S07",
-    "ios": "reference-ios-s07-after95/DD56C23E-4A28-40D1-9B8D-442849E437F7.png",
+    "ios": "reference-ios-settings109/61068899-F147-49EB-9928-C8E25743BBDB.png",
     "android": "iteration-98/android/S07.png",
     "status": "in_progress"
   },
   {
     "screen": "S08",
-    "ios": "reference-ios-validated-settings/FF59A480-3FA9-425D-9909-80669B5170ED.png",
-    "android": "iteration-108/android/S08.png",
+    "ios": "reference-ios-settings109/1851C43A-004C-4B02-9A98-CE9B78DF036F.png",
+    "android": "iteration-110/android/S08.png",
     "status": "in_progress"
   },
   {
