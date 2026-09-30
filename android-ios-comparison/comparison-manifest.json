@@ -1,38 +1,62 @@
 [
   {
+    "screen": "C04-inline",
+    "ios": "reference-ios-inline313/E2FCDA77-1652-445A-BD5F-5669A09DE51C.png",
+    "android": "iteration-319/android/C04-inline.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "C04-duration",
+    "ios": "reference-ios-inline313/DEEBE68D-8786-4EBB-B41D-FDEE34B25FCA.png",
+    "android": "iteration-319/android/C04-duration.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "C04-duration-hours",
+    "ios": "reference-ios-inline313/47F5D4B2-217C-430D-A940-6A6A8D379D44.png",
+    "android": "iteration-319/android/C04-duration-hours.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "E01-month-year-picker",
+    "ios": "reference-ios-editor309/BF71CEAD-46DD-4230-B153-6F0DD599E6D0.png",
+    "android": "iteration-312/android/E01-month-year-picker.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "E01-hidden-save",
     "ios": "reference-ios-editor299/D8B929AA-003D-4046-8114-FC809CE3FD06.png",
-    "android": "iteration-300/android/E01-hidden-save.png",
+    "android": "iteration-307/android/E01-hidden-save.png",
     "status": "in_progress"
   },
   {
     "screen": "E01-time-picker",
     "ios": "reference-ios-editor304/0AE11ED5-B859-4845-BE85-5A43DB41F653.png",
-    "android": "iteration-306/android/E01-time-picker.png",
+    "android": "iteration-312/android/E01-time-picker.png",
     "status": "in_progress"
   },
   {
     "screen": "E01-date-picker",
     "ios": "reference-ios-editor304/E38AE095-861E-49D9-9E33-A384CA6C1FA3.png",
-    "android": "iteration-306/android/E01-date-picker.png",
+    "android": "iteration-312/android/E01-date-picker.png",
     "status": "in_progress"
   },
   {
     "screen": "E01-filled",
     "ios": "reference-ios-editor290/8CF48D85-D05D-4869-B5D3-1098C7967415.png",
-    "android": "iteration-306/android/E01-filled.png",
+    "android": "iteration-312/android/E01-filled.png",
     "status": "in_progress"
   },
   {
     "screen": "E01-repeat-picker",
     "ios": "reference-ios-editor290/05D942B4-1A0B-458A-B77C-CF59B7E725CE.png",
-    "android": "iteration-306/android/E01-repeat-picker.png",
+    "android": "iteration-312/android/E01-repeat-picker.png",
     "status": "in_progress"
   },
   {
     "screen": "E01-repeat-end",
     "ios": "reference-ios-editor290/6843C00E-802E-4C6C-BB24-A49D723DF8DD.png",
-    "android": "iteration-306/android/E01-repeat-end.png",
+    "android": "iteration-312/android/E01-repeat-end.png",
     "status": "in_progress"
   },
   {
@@ -110,13 +134,13 @@
   {
     "screen": "C03-design",
     "ios": "reference-ios-submenu181/98B5525A-E3B1-415B-B38E-0DE8FB58A3EE.png",
-    "android": "iteration-193/android/C03-design.png",
+    "android": "iteration-311/android/C03-design.png",
     "status": "in_progress"
   },
   {
     "screen": "C03-design-bottom",
     "ios": "reference-ios-submenu181/89FD65CF-6A2F-4E2D-B1F9-80D844FC2A8F.png",
-    "android": "iteration-193/android/C03-design-bottom.png",
+    "android": "iteration-311/android/C03-design-bottom.png",
     "status": "in_progress"
   },
   {
@@ -206,7 +230,7 @@
   {
     "screen": "C03",
     "ios": "reference-ios-menu/AEAD1331-6A1B-4B11-BE75-A2A32DCE4736.png",
-    "android": "iteration-193/android/C03.png",
+    "android": "iteration-311/android/C03.png",
     "status": "in_progress"
   },
   {
@@ -218,7 +242,7 @@
   {
     "screen": "E01",
     "ios": "reference-ios-editor290/26C07016-468A-43A4-AC3F-FE43E38E83B9.png",
-    "android": "iteration-306/android/E01.png",
+    "android": "iteration-312/android/E01.png",
     "status": "in_progress"
   },
   {
@@ -230,13 +254,13 @@
   {
     "screen": "S01",
     "ios": "reference-ios-root187/3A67C1DF-128D-4FEB-9D7D-EE37B80250FF.png",
-    "android": "iteration-193/android/S01.png",
+    "android": "iteration-311/android/S01.png",
     "status": "in_progress"
   },
   {
     "screen": "S02",
     "ios": "reference-ios-validated-root/8248BD4A-939D-41C1-8445-692C9D6D066E.png",
-    "android": "iteration-193/android/S02.png",
+    "android": "iteration-311/android/S02.png",
     "status": "in_progress"
   },
   {
