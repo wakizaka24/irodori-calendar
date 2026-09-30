@@ -1,5 +1,17 @@
 [
   {
+    "screen": "L06-grid",
+    "ios": "reference-ios-color227/6D367FEC-1DDB-46F2-9721-68F7CB0DA21D.png",
+    "android": "iteration-225/android/L06-grid.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "L06-spectrum",
+    "ios": "reference-ios-color227/AEC3726A-270A-468A-962B-0F4217D084C2.png",
+    "android": "iteration-225/android/L06-spectrum.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "I04-light",
     "ios": "reference-ios-light216/4B3C172C-3C3B-4449-866A-E840264F96A9.png",
     "android": "iteration-217/android/I04-light.png",
@@ -91,8 +103,8 @@
   },
   {
     "screen": "L06-picker",
-    "ios": "reference-ios-color-picker/99742BF1-0346-48B1-B677-E3847DA9B921.png",
-    "android": "iteration-52/android/L06-picker.png",
+    "ios": "reference-ios-color227/7866E0E8-AFA8-40D2-AB94-3E4B33E6F86B.png",
+    "android": "iteration-225/android/L06-picker.png",
     "status": "in_progress"
   },
   {
