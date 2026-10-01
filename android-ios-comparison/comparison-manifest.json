@@ -1,5 +1,17 @@
 [
   {
+    "screen": "C01-light",
+    "ios": "reference-ios-lightcalendar489/CAEE4B1F-D328-4991-A078-9FDE24FD9AC1.png",
+    "android": "iteration-493/android/C01-light.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "C02-light",
+    "ios": "reference-ios-lightcalendar489/888A5C02-C42F-42ED-AD79-8AB3E471650F.png",
+    "android": "iteration-493/android/C02-light.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "C03-copy-confirm",
     "ios": "reference-ios-menu473/1CB5E410-4442-4248-B764-787BB6D8A7E5.png",
     "android": "iteration-475/android/C03-copy-confirm.png",
@@ -14,13 +26,13 @@
   {
     "screen": "C03-light",
     "ios": "reference-ios-lightmenu474/75E537E7-1A29-4847-8F3A-6AA669611421.png",
-    "android": "iteration-478/android/C03.png",
+    "android": "iteration-484/android/C03.png",
     "status": "in_progress"
   },
   {
     "screen": "C03-design-light",
     "ios": "reference-ios-lightmenu474/D52F1A23-8326-4106-9CCB-954811693184.png",
-    "android": "iteration-478/android/C03-design.png",
+    "android": "iteration-484/android/C03-design.png",
     "status": "in_progress"
   },
   {
@@ -218,13 +230,13 @@
   {
     "screen": "C03-design",
     "ios": "reference-ios-menu473/90160455-A2F4-41B9-987E-C56B32E7DA71.png",
-    "android": "iteration-479/android/C03-design.png",
+    "android": "iteration-485/android/C03-design.png",
     "status": "in_progress"
   },
   {
     "screen": "C03-design-bottom",
     "ios": "reference-ios-menu473/4464D6B6-3764-4618-8972-951E5A542D34.png",
-    "android": "iteration-479/android/C03-design-bottom.png",
+    "android": "iteration-485/android/C03-design-bottom.png",
     "status": "in_progress"
   },
   {
@@ -314,7 +326,7 @@
   {
     "screen": "C03",
     "ios": "reference-ios-menu473/68451BBF-111E-4A32-905F-6636A89B5ECA.png",
-    "android": "iteration-479/android/C03.png",
+    "android": "iteration-485/android/C03.png",
     "status": "in_progress"
   },
   {
