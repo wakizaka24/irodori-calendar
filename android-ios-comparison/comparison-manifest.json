@@ -1,5 +1,35 @@
 [
   {
+    "screen": "I02-after-last-transition-delete",
+    "ios": "reference-ios-lastdelete751/68D898CF-1205-45DC-A1B5-E2A71AC3D366.png",
+    "android": "iteration-765/android/I02-after-last-transition-delete.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I04-start-month-12",
+    "ios": "reference-ios-transition748/5EA0329A-AE39-48C2-BBF4-7AC899D500F5.png",
+    "android": "iteration-752/android/I04-start-month-12.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I04-start-month-1",
+    "ios": "reference-ios-transition748/029405C8-F6B0-4CF6-8E84-626317C3AB5E.png",
+    "android": "iteration-752/android/I04-start-month-1.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I04-tint-100",
+    "ios": "reference-ios-tint737/405E3C6B-4EE0-460D-B14F-DC21722AECB3.png",
+    "android": "iteration-749/android/I04-tint-100.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I04-tint-0",
+    "ios": "reference-ios-tint737/9B4F88B9-2DC2-469C-85AC-55A6CD80836E.png",
+    "android": "iteration-749/android/I04-tint-0.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "I03-stage3-week",
     "ios": "reference-ios-stageweek721/F31BBCF8-F98C-44A8-9FB8-ACADCBFFE438.png",
     "android": "iteration-723/android/I05-off.png",
