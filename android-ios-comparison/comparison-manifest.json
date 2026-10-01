@@ -1,5 +1,41 @@
 [
   {
+    "screen": "C01-bottom-tabs-light",
+    "ios": "reference-ios-bottomtabslight636/5F0278BF-ADCB-4031-8D61-807738520637.png",
+    "android": "iteration-638/android/C01-bottom-tabs-light.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "C02-bottom-tabs-light",
+    "ios": "reference-ios-bottomtabslight636/BAECD888-8ED0-4930-A5D8-4918FA593449.png",
+    "android": "iteration-638/android/C02-bottom-tabs-light.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "C01-bottom-tabs-light-return",
+    "ios": "reference-ios-bottomtabslight636/AAAEC17B-3956-4AE5-BBDD-9B12230C9452.png",
+    "android": "iteration-638/android/C01-bottom-tabs-light-return.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "C01-bottom-tabs",
+    "ios": "reference-ios-bottomtabs631/F4C33A09-9438-44CF-BEEB-DF1DF4C6B16A.png",
+    "android": "iteration-635/android/C01-bottom-tabs.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "C02-bottom-tabs",
+    "ios": "reference-ios-bottomtabs631/F80706B6-05C6-47FB-9C44-3455E9DDB3B5.png",
+    "android": "iteration-635/android/C02-bottom-tabs.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "C01-bottom-tabs-return",
+    "ios": "reference-ios-bottomtabs631/2A757B5F-BE6E-428C-8D50-24512C6FCBBE.png",
+    "android": "iteration-635/android/C01-bottom-tabs-return.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "C01-tablet",
     "ios": "reference-ios-tablet612/A8EAAFC9-36B0-441B-873B-A2B50FEE763B.png",
     "android": "iteration-620/android/C01-tablet.png",
@@ -32,25 +68,25 @@
   {
     "screen": "L04-tablet",
     "ios": "reference-ios-tabletgallery618/A80D56F6-EA1A-45B1-846B-37FA7AB11CBA.png",
-    "android": "iteration-621/android/L04-tablet.png",
+    "android": "iteration-630/android/L04-tablet.png",
     "status": "in_progress"
   },
   {
     "screen": "L04-week-tablet",
     "ios": "reference-ios-tabletgallery618/505CFA26-D07D-4339-99DE-A2DF75D5FF5E.png",
-    "android": "iteration-621/android/L04-week-tablet.png",
+    "android": "iteration-630/android/L04-week-tablet.png",
     "status": "in_progress"
   },
   {
     "screen": "L04-editor-tablet",
     "ios": "reference-ios-tabletgallery618/842ABE6E-35F3-4920-852F-55CD3AC94414.png",
-    "android": "iteration-621/android/L04-editor-tablet.png",
+    "android": "iteration-630/android/L04-editor-tablet.png",
     "status": "in_progress"
   },
   {
     "screen": "L04-drawer-tablet",
     "ios": "reference-ios-tabletgallery618/2B07CD46-240F-4B51-83DE-84585F30F4CB.png",
-    "android": "iteration-621/android/L04-drawer-tablet.png",
+    "android": "iteration-630/android/L04-drawer-tablet.png",
     "status": "in_progress"
   },
   {
