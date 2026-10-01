@@ -62,7 +62,7 @@
   {
     "screen": "S05-tablet",
     "ios": "reference-ios-tablet612/8222BF8B-8DB5-4D9A-A57B-E01ABA0A92D6.png",
-    "android": "iteration-620/android/S05-tablet.png",
+    "android": "iteration-647/android/S05-tablet.png",
     "status": "in_progress"
   },
   {
@@ -506,7 +506,7 @@
   {
     "screen": "S05",
     "ios": "reference-ios-settings109/BA17F2B2-D000-41E3-9476-E8DCB31902A2.png",
-    "android": "iteration-20/android/S05.png",
+    "android": "iteration-648/android/S05.png",
     "status": "in_progress"
   },
   {
