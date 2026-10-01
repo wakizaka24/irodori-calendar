@@ -511,8 +511,8 @@
   },
   {
     "screen": "E01-filled",
-    "ios": "reference-ios-editor547/52845D1F-4B87-4A1E-A91B-54DE5AEAFB76.png",
-    "android": "iteration-544/android/E01-filled.png",
+    "ios": "reference-ios-editor907/1522B002-5B7A-4210-9CCF-BB045E607432.png",
+    "android": "iteration-908/android/E01-filled.png",
     "status": "in_progress"
   },
   {
@@ -523,8 +523,8 @@
   },
   {
     "screen": "E01-repeat-end",
-    "ios": "reference-ios-editor547/57F45078-B74B-4D44-B27B-DE5DD465B8CA.png",
-    "android": "iteration-544/android/E01-repeat-end.png",
+    "ios": "reference-ios-editor907/9340D1F2-95E5-4E2C-B278-915A9AA32979.png",
+    "android": "iteration-908/android/E01-repeat-end.png",
     "status": "in_progress"
   },
   {
