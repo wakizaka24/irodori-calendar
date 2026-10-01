@@ -1,5 +1,11 @@
 [
   {
+    "screen": "E01-date-six-week",
+    "ios": "reference-ios-date575/602E33D4-5BFA-4B22-9949-5E1661A73363.png",
+    "android": "iteration-583/android/E01-date-six-week.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "E01-repeat-end-picker",
     "ios": "reference-ios-editor547/7E6E2631-FBD6-427F-818D-A06049ECE6FC.png",
     "android": "iteration-544/android/E01-repeat-end-picker.png",
