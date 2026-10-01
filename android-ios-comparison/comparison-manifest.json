@@ -1,5 +1,23 @@
 [
   {
+    "screen": "E01-light",
+    "ios": "reference-ios-lighteditor594/10A66E4D-402A-4108-B092-224AFF3D868D.png",
+    "android": "iteration-599/android/E01-light.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "E01-time-picker-light",
+    "ios": "reference-ios-lighteditor594/127F5CF6-F87B-4A59-A5E3-A42C8B154DC9.png",
+    "android": "iteration-599/android/E01-time-picker-light.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "E01-date-picker-light",
+    "ios": "reference-ios-lighteditor594/0DA1B58C-10C4-46C2-8703-482AAD269CE6.png",
+    "android": "iteration-599/android/E01-date-picker-light.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "E01-date-six-week",
     "ios": "reference-ios-date575/602E33D4-5BFA-4B22-9949-5E1661A73363.png",
     "android": "iteration-583/android/E01-date-six-week.png",
