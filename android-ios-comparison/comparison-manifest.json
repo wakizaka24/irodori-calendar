@@ -1,5 +1,59 @@
 [
   {
+    "screen": "C01-tablet",
+    "ios": "reference-ios-tablet612/A8EAAFC9-36B0-441B-873B-A2B50FEE763B.png",
+    "android": "iteration-620/android/C01-tablet.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "C02-tablet",
+    "ios": "reference-ios-tablet612/C6E5EB6F-415E-42B7-BFB1-891A5DDB29A4.png",
+    "android": "iteration-620/android/C02-tablet.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "S01-tablet",
+    "ios": "reference-ios-tablet612/707588AF-6C5A-4CF4-B778-6B0CE56271D8.png",
+    "android": "iteration-620/android/S01-tablet.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "S04-tablet",
+    "ios": "reference-ios-tablet612/E320B3C2-4690-41F8-B57E-4EE37B25ACA0.png",
+    "android": "iteration-620/android/S04-tablet.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "S05-tablet",
+    "ios": "reference-ios-tablet612/8222BF8B-8DB5-4D9A-A57B-E01ABA0A92D6.png",
+    "android": "iteration-620/android/S05-tablet.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "L04-tablet",
+    "ios": "reference-ios-tabletgallery618/A80D56F6-EA1A-45B1-846B-37FA7AB11CBA.png",
+    "android": "iteration-621/android/L04-tablet.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "L04-week-tablet",
+    "ios": "reference-ios-tabletgallery618/505CFA26-D07D-4339-99DE-A2DF75D5FF5E.png",
+    "android": "iteration-621/android/L04-week-tablet.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "L04-editor-tablet",
+    "ios": "reference-ios-tabletgallery618/842ABE6E-35F3-4920-852F-55CD3AC94414.png",
+    "android": "iteration-621/android/L04-editor-tablet.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "L04-drawer-tablet",
+    "ios": "reference-ios-tabletgallery618/2B07CD46-240F-4B51-83DE-84585F30F4CB.png",
+    "android": "iteration-621/android/L04-drawer-tablet.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "E01-light",
     "ios": "reference-ios-lighteditor594/10A66E4D-402A-4108-B092-224AFF3D868D.png",
     "android": "iteration-599/android/E01-light.png",
@@ -8,7 +62,7 @@
   {
     "screen": "E01-time-picker-light",
     "ios": "reference-ios-lighteditor594/127F5CF6-F87B-4A59-A5E3-A42C8B154DC9.png",
-    "android": "iteration-599/android/E01-time-picker-light.png",
+    "android": "iteration-607/android/E01-time-picker-light.png",
     "status": "in_progress"
   },
   {
