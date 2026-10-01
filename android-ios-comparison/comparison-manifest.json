@@ -1,5 +1,11 @@
 [
   {
+    "screen": "I03-tablet",
+    "ios": "reference-ios-tabletrange681/F837A11D-5AF2-475C-B0DE-6C90C7B0BC99.png",
+    "android": "iteration-684/android/I03-commands.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "S07-readonly",
     "ios": "reference-ios-readonly670/963219FC-C952-44B8-9A28-C99E95080898.png",
     "android": "iteration-670/android/S07-readonly.png",
@@ -619,8 +625,8 @@
   },
   {
     "screen": "I03",
-    "ios": "reference-ios-list/7D199B90-9351-4AAD-9F41-23308968D58E.png",
-    "android": "iteration-12/android/I03.png",
+    "ios": "reference-ios-range674/031685A6-8D58-4461-BB30-0F7FA34B13CB.png",
+    "android": "iteration-684-phone/android/I03-commands.png",
     "status": "in_progress"
   },
   {
