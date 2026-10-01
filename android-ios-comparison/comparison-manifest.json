@@ -14,13 +14,13 @@
   {
     "screen": "C03-design-tablet-light",
     "ios": "reference-ios-tabletlightmenu856/B2319A77-3667-4D86-A067-0B3D3F525FBB.png",
-    "android": "iteration-859/android/C03-design.png",
+    "android": "iteration-871/android/C03-design.png",
     "status": "in_progress"
   },
   {
     "screen": "C03-tablet-light",
     "ios": "reference-ios-tabletlightmenu856/2B2D19FA-9DCA-4788-B289-22B28D7DE352.png",
-    "android": "iteration-859/android/C03.png",
+    "android": "iteration-871/android/C03.png",
     "status": "in_progress"
   },
   {
