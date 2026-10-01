@@ -1,5 +1,11 @@
 [
   {
+    "screen": "S10-expanded",
+    "ios": "reference-ios-licenses651/AFB85C3B-904D-4365-968D-F203CFAF30AD.png",
+    "android": "iteration-653/android/S10-expanded.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "C01-bottom-tabs-light",
     "ios": "reference-ios-bottomtabslight636/5F0278BF-ADCB-4031-8D61-807738520637.png",
     "android": "iteration-638/android/C01-bottom-tabs-light.png",
@@ -535,8 +541,8 @@
   },
   {
     "screen": "S10",
-    "ios": "reference-ios-validated-root/1A34D11C-4051-4E84-A1AC-EEBBFE2F837C.png",
-    "android": "iteration-20/android/S10.png",
+    "ios": "reference-ios-licenses651/1F611796-3085-4C73-BE2F-3208D73C7F00.png",
+    "android": "iteration-653/android/S10.png",
     "status": "in_progress"
   },
   {
