@@ -2,25 +2,25 @@
   {
     "screen": "C02-group-collapsed",
     "ios": "reference-ios-weekgroups509/7B486028-2FD1-434E-BD93-EE0292F5D576.png",
-    "android": "iteration-510/android/C02-group-collapsed.png",
+    "android": "iteration-517/android/C02-group-collapsed.png",
     "status": "in_progress"
   },
   {
     "screen": "C02-group-expanded",
     "ios": "reference-ios-weekgroups509/39F840E9-A3DE-4D68-A27A-671AC69B79A2.png",
-    "android": "iteration-510/android/C02-group-expanded.png",
+    "android": "iteration-517/android/C02-group-expanded.png",
     "status": "in_progress"
   },
   {
     "screen": "C01-light",
     "ios": "reference-ios-lightcalendar489/CAEE4B1F-D328-4991-A078-9FDE24FD9AC1.png",
-    "android": "iteration-493/android/C01-light.png",
+    "android": "iteration-517/android/C01-light.png",
     "status": "in_progress"
   },
   {
     "screen": "C02-light",
     "ios": "reference-ios-lightcalendar489/888A5C02-C42F-42ED-AD79-8AB3E471650F.png",
-    "android": "iteration-510/android/C02-light.png",
+    "android": "iteration-517/android/C02-light.png",
     "status": "in_progress"
   },
   {
