@@ -349,14 +349,14 @@
   },
   {
     "screen": "C03-light",
-    "ios": "reference-ios-menu821/87D2F558-5B77-4A76-9358-BAF7F07C3DB5.png",
-    "android": "iteration-825/android/C03.png",
+    "ios": "reference-ios-lightmenu827/4FBAAA6E-A7FE-4D1A-8AED-0D1DD4A75D25.png",
+    "android": "iteration-833/android/C03.png",
     "status": "in_progress"
   },
   {
     "screen": "C03-design-light",
-    "ios": "reference-ios-menu821/8A5B0904-8211-4FA3-BAB5-69330DCCD348.png",
-    "android": "iteration-825/android/C03-design.png",
+    "ios": "reference-ios-lightmenu827/1B8EF784-5C55-4DE1-8B18-409C5F782B6B.png",
+    "android": "iteration-833/android/C03-design.png",
     "status": "in_progress"
   },
   {
