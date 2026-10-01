@@ -1,8 +1,26 @@
 [
   {
+    "screen": "I03-endpoints-end",
+    "ios": "reference-ios-endpoints691/6BD27D6D-27CD-47EE-B54B-561E2F5F880E.png",
+    "android": "iteration-695-endpoints/android/I03-endpoints-end.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I03-endpoints-start",
+    "ios": "reference-ios-endpoints691/C84AC264-8117-4A63-A84B-1F4F4BE0C296.png",
+    "android": "iteration-695-endpoints/android/I03-endpoints-start.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I03-light",
+    "ios": "reference-ios-lightrange690/65B57345-7714-4D47-8B10-C7431928C022.png",
+    "android": "iteration-694-light/android/I05-off.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "I03-tablet",
     "ios": "reference-ios-tabletrange681/F837A11D-5AF2-475C-B0DE-6C90C7B0BC99.png",
-    "android": "iteration-684/android/I03-commands.png",
+    "android": "iteration-696-tablet/android/I03-commands.png",
     "status": "in_progress"
   },
   {
@@ -626,7 +644,7 @@
   {
     "screen": "I03",
     "ios": "reference-ios-range674/031685A6-8D58-4461-BB30-0F7FA34B13CB.png",
-    "android": "iteration-684-phone/android/I03-commands.png",
+    "android": "iteration-696-phone/android/I03-commands.png",
     "status": "in_progress"
   },
   {
