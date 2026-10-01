@@ -439,8 +439,8 @@
   },
   {
     "screen": "L03-custom",
-    "ios": "reference-ios-custom418/6665D209-D5E8-443E-8C85-306245034F2D.png",
-    "android": "iteration-426/android/L03-custom.png",
+    "ios": "reference-ios-custom893/DD880408-D017-47C3-AC12-738A2F382B8E.png",
+    "android": "iteration-894/android/L03-custom.png",
     "status": "in_progress"
   },
   {
@@ -799,8 +799,8 @@
   },
   {
     "screen": "L03",
-    "ios": "reference-ios-application405/E77BB8A9-255F-4EF4-8732-D86660723357.png",
-    "android": "iteration-437/android/L03.png",
+    "ios": "reference-ios-layout891/FBA6763F-B28F-4C8D-948E-AA456A36B150.png",
+    "android": "iteration-890/android/L03.png",
     "status": "in_progress"
   },
   {
