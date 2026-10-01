@@ -1,5 +1,17 @@
 [
   {
+    "screen": "C03-design-tablet-landscape",
+    "ios": "reference-ios-landscapemenu863/1EC5B022-839F-4E17-A03D-05289B9D66E8.png",
+    "android": "iteration-866/android/C03-design.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "C03-tablet-landscape",
+    "ios": "reference-ios-landscapemenu863/DC0FB884-FDEA-45B4-A339-787FF71A3E60.png",
+    "android": "iteration-866/android/C03.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "C03-design-tablet-light",
     "ios": "reference-ios-tabletlightmenu856/B2319A77-3667-4D86-A067-0B3D3F525FBB.png",
     "android": "iteration-859/android/C03-design.png",
