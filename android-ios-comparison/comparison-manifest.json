@@ -499,8 +499,8 @@
   },
   {
     "screen": "S03",
-    "ios": "reference-ios-validated-root/C33BB4E4-EA7C-4CB1-8DD1-9D264D5FC420.png",
-    "android": "iteration-20/android/S03.png",
+    "ios": "reference-ios-preparation659/E5A0ACC8-6D93-4B4C-BB59-D67FB6A1C3F1.png",
+    "android": "iteration-663/android/S03.png",
     "status": "in_progress"
   },
   {
@@ -547,8 +547,8 @@
   },
   {
     "screen": "S12",
-    "ios": "reference-ios-validated-root/051B5BD8-42BE-4F89-BCFE-08F84D3B0BEB.png",
-    "android": "iteration-20/android/S12.png",
+    "ios": "reference-ios-preparation659/C88D7B56-8CC7-4A94-A1D9-BB795F3DBA91.png",
+    "android": "iteration-663/android/S12.png",
     "status": "in_progress"
   },
   {
