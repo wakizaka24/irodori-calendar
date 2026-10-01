@@ -1,5 +1,17 @@
 [
   {
+    "screen": "C03-design-mint",
+    "ios": "reference-ios-mintmenu837/2B339429-8EC4-4F73-A683-CE375E9A6D40.png",
+    "android": "iteration-838/android/C03-design.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "C03-mint",
+    "ios": "reference-ios-mintmenu837/920BA665-B0AC-4CAF-A1B1-36B36AC61006.png",
+    "android": "iteration-838/android/C03.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "I02-gallery-3-mint",
     "ios": "reference-ios-mintimagegallery806/D15844E3-B7B5-4BE0-992E-DACBFFDDC281.png",
     "android": "iteration-819/android/I02-gallery-3.png",
@@ -350,7 +362,7 @@
   {
     "screen": "C03-light",
     "ios": "reference-ios-lightmenu827/4FBAAA6E-A7FE-4D1A-8AED-0D1DD4A75D25.png",
-    "android": "iteration-833/android/C03.png",
+    "android": "iteration-836/android/C03.png",
     "status": "in_progress"
   },
   {
