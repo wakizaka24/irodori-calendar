@@ -1,5 +1,59 @@
 [
   {
+    "screen": "I02-gallery-3-tablet",
+    "ios": "reference-ios-tabletimagegallery780/541F5F0A-826F-4847-BA8D-A0F70FB89DF2.png",
+    "android": "iteration-798/android/I02-gallery-3.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I02-gallery-2-tablet",
+    "ios": "reference-ios-tabletimagegallery780/232FEB9A-9F62-4FA6-B43D-9AA083CDC23A.png",
+    "android": "iteration-798/android/I02-gallery-2.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I02-gallery-1-tablet",
+    "ios": "reference-ios-tabletimagegallery780/78BAF191-342B-4933-807F-BEECA062F706.png",
+    "android": "iteration-798/android/I02-gallery-1.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I02-gallery-0-tablet",
+    "ios": "reference-ios-tabletimagegallery780/0D499240-AB76-432A-98DE-C37E35CB57AE.png",
+    "android": "iteration-798/android/I02-gallery-0.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "S01-long-name",
+    "ios": "reference-ios-rootlong791/AC2B3BB3-5E85-4781-B61F-AD160C6C8D81.png",
+    "android": "iteration-792/android/S01-long-name.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I02-gallery-3",
+    "ios": "reference-ios-imagegallery772/77A332FF-4E3B-41C0-BAB0-F030323A0778.png",
+    "android": "iteration-796/android/I02-gallery-3.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I02-gallery-2",
+    "ios": "reference-ios-imagegallery772/F9AD9B8A-29AD-4608-883F-16071B17E58B.png",
+    "android": "iteration-796/android/I02-gallery-2.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I02-gallery-1",
+    "ios": "reference-ios-imagegallery772/BE8F54B5-DFE5-4695-A05D-F2C2AABCB139.png",
+    "android": "iteration-796/android/I02-gallery-1.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I02-gallery-0",
+    "ios": "reference-ios-imagegallery772/E3FADA8B-8D14-4990-BB86-40934859F3D2.png",
+    "android": "iteration-796/android/I02-gallery-0.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "I02-after-last-transition-delete",
     "ios": "reference-ios-lastdelete751/68D898CF-1205-45DC-A1B5-E2A71AC3D366.png",
     "android": "iteration-765/android/I02-after-last-transition-delete.png",
