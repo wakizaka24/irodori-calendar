@@ -1,5 +1,11 @@
 [
   {
+    "screen": "I03-stage3-week",
+    "ios": "reference-ios-stageweek721/F31BBCF8-F98C-44A8-9FB8-ACADCBFFE438.png",
+    "android": "iteration-723/android/I05-off.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "I03-endpoints-end-light",
     "ios": "reference-ios-lightendpoints700/CF6411CA-FE80-473E-BFEB-212732DF9DF5.png",
     "android": "iteration-705-light/android/I03-endpoints-end.png",
@@ -656,7 +662,7 @@
   {
     "screen": "I03",
     "ios": "reference-ios-range674/031685A6-8D58-4461-BB30-0F7FA34B13CB.png",
-    "android": "iteration-705-phone/android/I03-commands.png",
+    "android": "iteration-720/android/I03-commands.png",
     "status": "in_progress"
   },
   {
