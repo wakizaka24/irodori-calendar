@@ -1,5 +1,29 @@
 [
   {
+    "screen": "I02-gallery-3-light",
+    "ios": "reference-ios-lightimagegallery803/FC45810B-C232-4A8E-B989-008A9B72E8C9.png",
+    "android": "iteration-804/android/I02-gallery-3.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I02-gallery-2-light",
+    "ios": "reference-ios-lightimagegallery803/A6DCE1C7-E67C-46BE-BB0B-13E83FB630DC.png",
+    "android": "iteration-804/android/I02-gallery-2.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I02-gallery-1-light",
+    "ios": "reference-ios-lightimagegallery803/EF64B3CC-2D74-42BA-A917-4952D391A24C.png",
+    "android": "iteration-804/android/I02-gallery-1.png",
+    "status": "in_progress"
+  },
+  {
+    "screen": "I02-gallery-0-light",
+    "ios": "reference-ios-lightimagegallery803/31AE1E25-D55E-4711-88FC-5DCA7AFC41B4.png",
+    "android": "iteration-804/android/I02-gallery-0.png",
+    "status": "in_progress"
+  },
+  {
     "screen": "I02-gallery-3-tablet",
     "ios": "reference-ios-tabletimagegallery780/541F5F0A-826F-4847-BA8D-A0F70FB89DF2.png",
     "android": "iteration-802/android/I02-gallery-3.png",
